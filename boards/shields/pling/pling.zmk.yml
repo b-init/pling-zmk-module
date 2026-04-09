@@ -1,0 +1,11 @@
+file_format: "1"
+id: pling
+name: Pling!
+type: shield
+url: https://github.com/b-init
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+siblings:
+  - pling_left
+  - pling_right
